@@ -1,0 +1,51 @@
+{
+  "students": [
+    {
+      "name": "Updated Name",
+      "age": 25,
+      "mark": 95,
+      "id": "bf19"
+    },
+    {
+      "name": "Updated Name",
+      "age": 25,
+      "mark": 95,
+      "id": "2ad2"
+    },
+    {
+      "name": "Charlie",
+      "age": 21,
+      "mark": 90,
+      "id": "df7a"
+    },
+    {
+      "id": "5610",
+      "name": "raam",
+      "age": 12,
+      "mark": 52
+    },
+    {
+      "id": "c4c0",
+      "name": "ddd",
+      "age": 45,
+      "mark": 18
+    }
+  ],
+  "teachers": [
+    {
+      "id": "t1",
+      "name": "Mr. Smith",
+      "subject": "Mathematics"
+    },
+    {
+      "id": "t2",
+      "name": "Ms. Johnson",
+      "subject": "Science"
+    },
+    {
+      "id": "t3",
+      "name": "Mr. Lee",
+      "subject": "History"
+    }
+  ]
+}
